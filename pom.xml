@@ -89,6 +89,11 @@
 					<wtpversion>2.0</wtpversion>
 				</configuration>
 			</plugin>
+			<plugin>
+          			<groupId>org.apache.maven.plugins</groupId>
+            			<artifactId>maven-resources-plugin</artifactId>
+            			<version>2.7</version>
+        		</plugin>
 			
 			<!-- Set JDK Compiler Level -->
 			<plugin>
